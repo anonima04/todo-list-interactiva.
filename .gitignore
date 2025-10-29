@@ -1,0 +1,4 @@
+
+# Ignorar archivos del sistema operativo y editores
+.DS_Store
+*.vscode/
